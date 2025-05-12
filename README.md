@@ -71,10 +71,6 @@ credit-risk-segmentation/
 - MySQL or compatible SQL database
 - Microsoft Excel (2016 or later recommended)
 
-## License
-
-MIT License
-
 ---
 
 *For questions or suggestions, please open an issue or contact the project maintainer.*
